@@ -1,2 +1,0 @@
-- justificar por que usé tal tipo de etiqueta en cada caso
-- 
