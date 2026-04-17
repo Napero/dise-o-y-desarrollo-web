@@ -1,0 +1,1 @@
+En un nuevo documento html, estructurado y semántico, traspasar los textos del documento adjunto, y aplicar estilos CSS para que se vea lo más aproximado posible al modelo.
